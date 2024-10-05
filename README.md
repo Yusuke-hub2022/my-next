@@ -11,6 +11,10 @@ Not using TypeScript.
 - Prisma (Object-Relational Mapper)
 - Google Books API
 
+## Demo
+
+[https://my-next-pied.vercel.app/books](https://my-next-pied.vercel.app/books)
+
 ## Running locally
 
 First, run the development server:
